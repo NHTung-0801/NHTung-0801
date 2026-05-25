@@ -8,15 +8,34 @@
 
 ---
 
-## 🙋‍♂️ Về bản thân tôi
+## 💻 About Me
 
-- 🔭 **Đang phát triển:** Ứng dụng du lịch dựa trên vị trí (Location-based travel app) với các tính năng quản lý hồ sơ và giao diện thân thiện.
-- 🌱 **Đang tìm hiểu sâu về:** Kiến trúc Microservices, Containerization với Docker và tối ưu hóa hiệu suất API.
-- 💼 **Dự án tiêu biểu:** - Hệ thống Quản lý Y tế Học đường (Spring Boot).
-  - Pipeline Phân tích Giá Xe hơi (Data Mining với Python/Jupyter).
-  - Hệ thống Quản lý Phòng Gym (Java, Python).
-- 🎓 **Học vấn:** Sinh viên chuyên ngành Công nghệ Thông tin tại Đại học Giao thông Vận tải Thành phố Hồ Chí Minh (UTH).
-- ⚡ **Fun fact:** Khi không ngồi gõ code, bạn sẽ thấy tôi đang ở phòng Gym, tự chuẩn bị những bữa ăn heathy hoặc đang nghe nhạc V-Pop.
+* 🎯 **Current Focus:** Developing a location-based travel app and building robust backend systems.
+* 🌱 **Learning Next:** Diving deeper into Microservices architecture, Docker containerization, and API optimization.
+* 💼 **Highlighted Projects:** School Medical Management (Spring Boot), Car Price Analytics Pipeline (Python), and Gym Management System.
+* 🎓 **Education:** Information Technology student at the University of Transport and Communications (UTH).
+* ⚡ **Outside of Code:** When I'm not at my keyboard, you can find me hitting the gym, prepping healthy meals, or vibing to V-Pop.
+* 🤝 **Collaborations:** Open to discussions on Backend development, database design, and open-source projects.
+
+---
+
+## 📧 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/NHTung-0801" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:tungnh0801@gmail.com@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/t%C3%B9ng-nguy%E1%BB%85n-213701411/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Coding Animation" width="450" />
+</p>
 
 ---
 
