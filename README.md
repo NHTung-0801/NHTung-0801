@@ -45,18 +45,6 @@
 
 ---
 
-## 📂 Dự án nổi bật
-
-| Tên dự án | Công nghệ sử dụng | Mô tả ngắn gọn |
-| :--- | :--- | :--- |
-| **Location-Based Travel App** | `Đang cập nhật` | Ứng dụng di động hỗ trợ du lịch dựa trên vị trí địa lý của người dùng. |
-| **School Medical Management** | `Java`, `Spring Boot` | Hệ thống quản lý y tế học đường tích hợp toàn diện. |
-| **Car Price Analytics Pipeline** | `Python`, `Jupyter` | Dự án Data Mining: Cào dữ liệu (scraping) từ các trang web ô tô và phân tích trực quan. |
-| **Gym Management System** | `Java`, `Python` | Phần mềm hỗ trợ quản lý hội viên và dịch vụ tại phòng tập Gym. |
-| **Information Security Research** | `Nghiên cứu khoa học` | Nghiên cứu về "Quản lý Rủi ro trong An toàn Thông tin". |
-
----
-
 ## 📊 GitHub Activity Graph
 
 <p align="center">
