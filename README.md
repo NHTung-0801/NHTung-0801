@@ -3,7 +3,7 @@
 <h3 align="center">Information Technology Student @ UTH | Aspiring Backend Developer 🚀</h3>
 
 <p align="center">
-  Một lập trình viên điềm tĩnh, lạc quan và luôn đặt tinh thần trách nhiệm lên hàng đầu trong công việc. Tôi đam mê xây dựng các hệ thống Backend mạnh mẽ, tối ưu hóa cơ sở dữ liệu và khám phá các công nghệ mới.
+  A composed, optimistic, and highly responsible developer. I am passionate about building robust backend systems, optimizing databases, and exploring new technologies.
 </p>
 
 ---
